@@ -1,7 +1,13 @@
-## Hi there 👋
+## <p align="center">Привет, меня зовут Анна! 👋</p>
+<div align="center">
+  
+<a href="">[![Telegram](https://img.shields.io/badge/-Telegram-27A7E7?style=for-the-badge&logo=telegram)](https://t.me/anna_chernysheff)</a>
+<a href="">[![WHATSAPP](https://img.shields.io/badge/-WHATSAPP-28D146?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF)](https://wa.me/9154306818)</a>
 
-<!--
-**a-chernysheva/a-chernysheva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
+
+### О себе
+Меня зовут Анна Чернышева, и я изучаю аналитику данных с октября 2024 года. Ранее я работала аналитиком в Дирекции по международному сотрудничеству. В целях углубления знаний я освоила следующие инструменты и навыки: Python, SQL, Tableau, математическую статистику, теорию вероятности, продуктовые метрики и фреймворки для развития продукта. 
 
 Here are some ideas to get you started:
 
