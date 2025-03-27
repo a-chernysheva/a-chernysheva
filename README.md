@@ -13,8 +13,8 @@
 
 |Название | Краткое описание | Навыки |
 |:---|:---|:---|
-|[Marketplace Product Analytics](https://github.com/a-chernysheva/product_analytics_marketplace_project)|Проанализировала PMF и основные продуктовые метрики. Выработала и приоритизировала гипотезы высокого оттока клиентов при помощи фреймворка ICE. Предложила целевые, прокси и барьерные метрики для A/B тестирования |pandas, numpy, seaborn, matplotlib|
-
+|[Marketplace Product Analytics](https://github.com/a-chernysheva/product_analytics_marketplace_project)|Проанализировала PMF и основные продуктовые метрики. Выработала и приоритизировала гипотезы высокого оттока клиентов при помощи фреймворка ICE. Предложила целевые, прокси и барьерные метрики для A/B тестирования. |pandas, numpy, seaborn, matplotlib|
+|[A/B Test: CR and ARPPU Improvement](https://github.com/a-chernysheva/ab_test_arppu_cr)|Отобрала метрики для оценки эффекта от введения новой механики оплаты в продукте. Провела анализ CR и ARPPU с использованием критериев хи-квадрат и t-теста. Построила доверительный интервал для оценки изменений целевых показателей при введении новой механики оплаты в продукте. |pandas, numpy, pingouin, seaborn, matplotlib|
 
 ## <p align="center">Hi there, my name is Anna! 👋</p>
 <div align="center">
@@ -31,4 +31,5 @@ My name is Anna Chernysheva, and I am studying data analysis since October 2024.
 
 |Name | Description | Skills |
 |:---|:---|:---|
-|[Marketplace Product Analytics](https://github.com/a-chernysheva/product_analytics_marketplace_project)|PMF and key metrics analysis. Hypotheses for low retention formulated and prioritized via ICE-framework. Target, proxi and guardrail metrics for A/B test suggested |pandas, numpy, seaborn, matplotlib|
+|[Marketplace Product Analytics](https://github.com/a-chernysheva/product_analytics_marketplace_project)|PMF and key metrics analysis. Hypotheses for low retention formulated and prioritized via ICE-framework. Target, proxi and guardrail metrics for A/B test suggested. |pandas, numpy, seaborn, matplotlib|
+|[A/B Test: CR and ARPPU Improvement](https://github.com/a-chernysheva/ab_test_arppu_cr)|I chose metrics to analyze impact from implementing new payment mechanics. CR and ARPPU metrics were assessed using chi-square and Welch t-test. I estimated confidence interval for key metrics delta in case new payment mechanics is implemented. |pandas, numpy, pingouin, seaborn, matplotlib|
