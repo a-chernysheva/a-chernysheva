@@ -34,5 +34,5 @@ My name is Anna Chernysheva, and I am studying data analysis since October 2024.
 |:---|:---|:---|
 |[Marketplace Product Analytics](https://github.com/a-chernysheva/product_analytics_marketplace_project)|PMF and key metrics analysis. Hypotheses for low retention formulated and prioritized via ICE-framework. Target, proxi and guardrail metrics for A/B test suggested. |pandas, numpy, seaborn, matplotlib|
 |[A/B Test: CR and ARPPU Improvement](https://github.com/a-chernysheva/ab_test_arppu_cr)|I chose metrics to analyze impact from implementing new payment mechanics. CR and ARPPU metrics were assessed using chi-square and Welch t-test. I estimated confidence interval for key metrics delta in case new payment mechanics is implemented. |pandas, numpy, pingouin, seaborn, matplotlib|
-|[SQL Projects](https://github.com/a-chernysheva/SQL_Projects)|Подзапросы и Common Table Expressions. |postgreSQL|
+|[SQL Projects](https://github.com/a-chernysheva/SQL_Projects)|Nested Queries and Common Table Expressions. |postgreSQL|
 
