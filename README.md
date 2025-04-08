@@ -7,7 +7,18 @@
 </div>
 
 ### О себе :
-Меня зовут Анна Чернышева, и я изучаю аналитику данных с октября 2024 года. Ранее я работала аналитиком в Дирекции по международному сотрудничеству, а также менеджером зарубежного проекта с командой 20+ человек. В целях углубления знаний я освоила следующие инструменты и навыки: Python, SQL, Tableau, математическая статистика и тервер, продуктовые метрики и фреймворки для развития продукта. 
+💁🏼‍♀️ Привет! Меня зовут Анна, я data analyst с сильной академической базой *(МГИМО)* и опытом в управлении проектами, исследовательской аналитике и продуктовом подходе. Переквалифицировалась в IT через обучение в **Karpov.Courses** и самостоятельно погрузилась в работу с Python, SQL, Tableau, A/B-тестами, Airflow и BI-инструментами.
+
+📈 Люблю копаться в данных, находить неочевидные инсайты и предлагать решения, которые реально улучшают продукт. Уверенно работаю с визуализациями, строю понятные дашборды, провожу статистические проверки и обосновываю гипотезы.
+
+🧠 В своих проектах я:
+* автоматизирую предобработку данных;
+* оцениваю Retention и ARPPU;
+* провожу A/B тесты и делаю выводы, опираясь на проверенные методы статистики;
+* умею мыслить как аналитик, презентовать как менеджер и копать как исследователь.
+
+🌱 Открыта новым задачам и форматам сотрудничества. 
+
 
 ### Мои проекты 👇: 
 
@@ -26,7 +37,17 @@
 </div>
 
 ### About me
-My name is Anna Chernysheva, and I am studying data analysis since October 2024. Prior to that I used to work as an Analyst in International relations Department and as an Overseas project manager with a team of 20+ proffessional. To gain proficience in data analysis I studied the following instruments and acquired various skills: Python, SQL, Tableau, statistics and probability theory, product metrics and product development frameworks. 
+💁🏼‍♀️ Hi! I'm Anna — a data analyst with a strong academic background *(MGIMO)* and hands-on experience in project management, research analytics, and product-focused thinking. I transitioned into IT through **Karpov.Courses** and dove deep into working with Python, SQL, Tableau, A/B testing, Airflow, and BI tools.
+
+📈 I enjoy digging into data, uncovering hidden insights, and proposing solutions that genuinely improve the product. I’m confident with visualizations, building clear dashboards, running statistical tests, and backing up hypotheses with data.
+
+🧠 In my projects, I:
+* automate data preprocessing;
+* analyze retention and ARPPU;
+* run A/B tests and draw conclusions using solid statistical methods;
+* think like an analyst, present like a manager, and research like a scientist.
+
+🌱 Open to new challenges and collaboration opportunities.
 
 ### My projects 👇: 
 
